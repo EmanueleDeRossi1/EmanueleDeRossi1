@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emanuele-de-rossi-1b012420a/"><img height="30" color= blue src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="mailto:emanuelederossi313@gmail.com"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/02/Outlook-logo-5.png"></a>
+  <a href="mailto:emanuelederossi313@gmail.com"><img height="30" src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png"></a>
 
 </p>
 
@@ -12,7 +12,7 @@
 
 
 
-  My name is **Emanuele De Rossi** and I recently graduated from my Master's degrees in **Cognitive Systems** at the University of Potsdam. I am interested in NLP, Computational Linguistics, applications of Computational Science to Linguistics, General Linguistics and minoritized languages. I am also in charge of the computer base pre and postprocessing of the experiments in the [LeibnizDream](https://leibnizdream.eu) project of the [Leibniz Institute General Linguistics (ZAS)](https://www.leibniz-zas.de/de/) in Berlin, Germany. 
+  My name is **Emanuele De Rossi** and I recently graduated from my Master's degrees in **Cognitive Systems** at the University of Potsdam. I am interested in NLP, ....
 
 ## ⚙️ Technologies & Tools
 
