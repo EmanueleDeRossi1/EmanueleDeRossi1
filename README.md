@@ -12,12 +12,21 @@
 
 
 
-  My name is **Emanuele De Rossi** and I recently graduated from my Master's degrees in **Cognitive Systems** at the University of Potsdam. I am interested in NLP, ....
+  My name is **Emanuele De Rossi** and I recently graduated from my Master's degrees in **Cognitive Systems** at the University of Potsdam. I am interested in Natural Language Processing (NLP), machine learning, and building tools that connect language and data in meaningful ways.
+
+## 🧪 Recent Projects 
+
+	•	Parameter-efficient domain adaptation for RoBERTa using LoRA
+	•	Prompt security analysis for LLMs during an internship at DFKI
+	•	Academic & side projects in coreference resolution, argument mining, and audio transcription
+
+
 
 ## ⚙️ Technologies & Tools
 
 ![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
 ![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
+![badge-sql](https://optim.tildacdn.one/tild6238-3035-4335-a333-306335373139/-/format/webp/IMG_3349.jpg.webp)
 
 <!---
 camelo-cruz/camelo-cruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
