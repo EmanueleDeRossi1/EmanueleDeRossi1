@@ -6,7 +6,7 @@
 
 <p align="center">
 
- <h1>Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px"> Welcome to my Github Profile.</h1>
+ <h1>Hi there! <img src="https://i.imgur.com/GNz3qCl.gif" width="30px"> And welcome to my Github profile</h1>
  
 </p>
 
