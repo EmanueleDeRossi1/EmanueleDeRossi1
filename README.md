@@ -12,7 +12,7 @@
 
 
 
-  My name is **Emanuele De Rossi** and I recently graduated from my Master's degrees in **Cognitive Systems** at the University of Potsdam. I am interested in Natural Language Processing (NLP), machine learning, and building tools that connect language and data in meaningful ways.
+  My name is **Emanuele De Rossi** and I hold a Master's degrees in **Cognitive Systems** at the University of Potsdam. I am interested in Natural Language Processing (NLP), machine learning, and building tools that connect language and data in meaningful ways.
 
 ## 🧪 Recent Projects 
 
