@@ -12,7 +12,7 @@
 
 
 
-  My name is **Emanuele** and I hold a Master's degree in **Cognitive Systems** at the University of Potsdam. I am interested in Natural Language Processing (NLP), machine learning, and building tools that connect language and data in meaningful ways.
+  My name is **Emanuele** and I hold a Master's degree in **Computational Linguistics** at the University of Potsdam. I am interested in Natural Language Processing (NLP), machine learning, and building tools that connect language and data in meaningful ways.
 
 ## 🧪 Recent Projects 
 
