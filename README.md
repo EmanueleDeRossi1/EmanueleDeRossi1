@@ -12,23 +12,25 @@
 
 
 
-  My name is **Emanuele** and I hold a Master's degree in **Computational Linguistics** at the University of Potsdam. I am interested in Natural Language Processing (NLP), machine learning, and building tools that connect language and data in meaningful ways.
+My name is **Emanuele** and I like building things at the intersection of language, data, and AI systems. I hold a Master's in **Computational Linguistics** from the University of Potsdam and I am currently working as an AI engineer at [Rhesis AI](https://github.com/rhesis-ai/rhesis).
+
+## 🚀 What I'm working on
+
+At **Rhesis AI** I'm building infrastructure for LLM evaluation: document ingestion pipelines that auto-generate tests, and vector embedding systems that cluster and analyse evaluation results. I also designed the MCP-based integration architecture connecting our AI agents to tools like Notion, GitHub, and Jira.
 
 ## 🧪 Recent Projects 
 
-- Parameter-efficient domain adaptation for RoBERTa using LoRA
-- Prompt security analysis for LLMs during an internship at DFKI
-- Academic & side projects in coreference resolution, argument mining, and audio transcription
+- 🏋️ **Gym Occupancy Widget** — Android widget for real-time gym occupancy via API proxy ([github](https://github.com/EmanueleDeRossi1/gym-occupancy-android-widget))
+- 🍽️ **Mensa Griebnitzsee Bot** — Discord bot for the university canteen menu ([github](https://github.com/EmanueleDeRossi1/griebnitzsee-mensa-discord-bot))
+- 🔬 **Thesis** — Parameter-efficient domain adaptation for RoBERTa using LoRA ([github](https://github.com/EmanueleDeRossi1/Thesis-PEFT))
+- 🔐 **DFKI** — Ablation study on jailbreaking prompts and AI security ([github](https://github.com/EmanueleDeRossi1/IM-Jailbreaking))
 
 
 
 ## ⚙️ Technologies & Tools
 
 ![badge-python](https://img.shields.io/badge/code-python-0bbf44?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
-![badge-sql](https://img.shields.io/badge/database-sql-0bbf44?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
+![badge-typescript](https://img.shields.io/badge/code-typescript-0bbf44?style=for-the-badge&logo=typescript&logoColor=white&labelColor=21223e)
+![badge-docker](https://img.shields.io/badge/infra-docker-0bbf44?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
+![badge-postgres](https://img.shields.io/badge/database-postgresql-0bbf44?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
 ![badge-git](https://img.shields.io/badge/version_control-git-0bbf44?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
-
-<!---
-camelo-cruz/camelo-cruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
