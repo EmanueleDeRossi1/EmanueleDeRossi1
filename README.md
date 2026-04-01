@@ -16,7 +16,7 @@ My name is **Emanuele** and I like building things at the intersection of langua
 
 ## 🚀 What I'm working on
 
-At **Rhesis AI** I'm building infrastructure for LLM evaluation: document ingestion pipelines that auto-generate tests, and vector embedding systems that cluster and analyse evaluation results. I also designed the MCP-based integration architecture connecting our AI agents to tools like Notion, GitHub, and Jira.
+At **Rhesis AI** I'm building infrastructure for LLM evaluation: document ingestion pipelines fo test generation, and vector embedding systems that cluster and analyse evaluation results. I also designed the MCP-based integration architecture connecting our AI agents to tools like Notion, GitHub, and Jira.
 
 ## 🧪 Recent Projects 
 
